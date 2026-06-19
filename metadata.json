@@ -1,0 +1,6 @@
+{
+  "name": "AI Dubbing + Localization Studio",
+  "description": "An end-to-end studio for AI-powered multi-speaker dubbing, translation, dialogue adaptation, audio mixing, lip-syncing, and subtitle generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
